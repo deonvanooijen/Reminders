@@ -1,5 +1,5 @@
 # Reminders
- Reminders was created during an Udemy course by Vin Norman. This app allows the user to save a couple of details for things in order not to forget them. It includes a TabLayout and uses ViewPager2 for swiping between the two fragments.
+ The Reminders app allows the user to save details for a couple of things in order not to forget them. It includes a TabLayout and uses ViewPager2 for swiping between the two fragments.
 <h2> 📸 Screenshots
 
 <table>
