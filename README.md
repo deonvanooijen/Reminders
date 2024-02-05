@@ -1,6 +1,5 @@
 # Reminders
- 
-Record Keeper was created during an Udemy course by Vin Norman.
+ Reminders was created during an Udemy course by Vin Norman. This app allows the user to save a couple of details for things in order not to forget them.
 <h2> 📸 Screenshots
 
 <table>
